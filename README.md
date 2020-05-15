@@ -2,7 +2,6 @@
 <p align="right">
 بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم 
 </p>
-tags: `Pemrograman Framework, Python, Flask, Google APIs, Cloud MongoDB, E-Learning`
 
 > Berisi seluruh kodingan proyek akhir pemrgraman framework  :computer: 
 > Proyek ini merupakan pembuatan E-Learning sederhana yang dikhususkan untuk mahasiswa Fakultas Ilmu Komputer UPN "VETERAN" Jawa Timur :school: 
@@ -40,15 +39,12 @@ Silahkan fork repositori ini terlebih dahulu setelah itu kalian bebas mengembang
 <a href="https://github.com/Rakhid16/fp-pemframework/blob/master/LICENSE">Creative Commons Zero v1.0 Universal</a>
 
 ## :memo: Pengembang proyek
-:man: Maulana Idris
-:smile: Fitri Aulia YP
-:boy: Rakhman Wahid
+:man: Maulana Idris<br>
+:smile: Fitri Aulia YP<br>
+:boy: Rakhman Wahid<br>
 :man: Amir Fananai
 
 ## :memo: Status proyek
-:::info
-Sedang dikembangkan
-:::
 - [x] Login
 - [x] Fitur-fitur untuk admin
 - [ ] Fitur-fitur untuk dosen
