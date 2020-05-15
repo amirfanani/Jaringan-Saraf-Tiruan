@@ -2,7 +2,7 @@
 <p align="right">
 بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم 
 </p>
-###### tags: `Pemrograman Framework, Python, Flask, Google APIs, Cloud MongoDB, E-Learning`
+tags: `Pemrograman Framework, Python, Flask, Google APIs, Cloud MongoDB, E-Learning`
 
 > Berisi seluruh kodingan proyek akhir pemrgraman framework  :computer: 
 > Proyek ini merupakan pembuatan E-Learning sederhana yang dikhususkan untuk mahasiswa Fakultas Ilmu Komputer UPN "VETERAN" Jawa Timur :school: 
@@ -22,10 +22,6 @@ cd fp-pemframework
 pip3 install -r requirements.txt
 ```
 
-:::info
-:bulb: **Hint:** <b>pip3</b> dapat diganti dengan <b>pip</b>
-:::
-
 ### 3: Jalankan di localhost
 ```
 export FLASK_APP=main.py
@@ -33,16 +29,8 @@ export ENVIRONMENT=development
 flask run
 ```
 
-:::info
-:bulb: **Hint:** <b>export</b> dapat diganti dengan <b>set</b> apabila anda menggunakan sistem operasi windows
-:::
-
 ### 4: Akses http://127.0.0.1:5000/
 ![permalink setting demo](https://i.ibb.co/k09ySM3/Screenshot-from-2020-05-14-22-20-51.png)
-
-:::info
-:pushpin: Matikan server cukup ketik ```ctrl + c``` pada terminal anda
-:::
 
 ## :memo: Kontribusi
 
@@ -66,4 +54,4 @@ Sedang dikembangkan
 - [ ] Fitur-fitur untuk dosen
 - [ ] Fitur-fitur untuk mahasiswa
 
-## :pushpin: <a href="http://fik-ocw.herokuapp.com/">Demo langsung</a>
+:pushpin: <a href="http://fik-ocw.herokuapp.com/">Demo langsung</a>
